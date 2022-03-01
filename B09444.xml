@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The treaty of Pyrennes:, or, Articles of peace, between the crowns of France and Spain; concluded and signed the seventh of November, 1659.  With reference to the peace in hand.</title>
+            <title>Treaties, etc. Spain, 1659 November 7</title>
+            <author>France.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09444</idno>
+            <idno type="STC">Wing L3140A</idno>
+            <idno type="STC">ESTC R180091</idno>
+            <idno type="EEBO-CITATION">64551372</idno>
+            <idno type="OCLC">ocm 64551372</idno>
+            <idno type="VID">184644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184644)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2869:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The treaty of Pyrennes:, or, Articles of peace, between the crowns of France and Spain; concluded and signed the seventh of November, 1659.  With reference to the peace in hand.</title>
+                  <title>Treaties, etc. Spain, 1659 November 7</title>
+                  <author>France.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Drury, near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>"Printed in Paris by His Majesty's command, and now faithfully rendred into English."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foregin relations --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treaty">
+            <pb n="1" facs="tcp:184644:1" rendition="simple:additions"/>
+            <head>
+               <hi>The</hi> TREATY <hi>of</hi> Pyrennes: OR, Articles of Peace, Between the Crowns of <hi>FRANCE</hi> and <hi>SPAIN;</hi> Conclu<g ref="char:EOLhyphen"/>ded and Signed the Seventh of <hi>November,</hi> 1659. With Reference to the PEACE in Hand.</head>
+            <floatingText type="license" xml:lang="eng" subtype="order_to_print">
+               <body>
+                  <p>
+                     <hi>Printed in</hi> Paris <hi>by His Majeſty's Command, and now faithfully rendred into</hi> Engliſh.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>IN THE NAME OF GOD THE CREATOR.</hi> To all preſent and to come, Be it known; That whereas a long and bloody War, hath, ma<g ref="char:EOLhyphen"/>ny Years ſince cauſed great Miſeries and Oppeſſions to be ſuffered by the People, Kingdoms, Countries, and Dominions under the Obedience of the moſt High, moſt Excellent, and moſt Potent Prince <hi>Lewis</hi> the XIVth. by the Grace of God, moſt Chriſtian King of <hi>France</hi> and <hi>Navarra;</hi> and of <hi>Philip</hi> the IVth. by the Grace of God, Catholick King of <hi>Spain:</hi> In which War, other Princes and Republicks; their Neighbours and Allies, having alſo taken part, many Towns and Countries of both the Parties have been expoſed to great Evils, Miſeries, Ruins, and Deſolations. And although at other times, and by ſeveral ways, divers Overtures and Negociations for an Accommodation, have been made; yet none of them, through the Myſterious Secrets of the Divine Providence, could take the effect moſt earneſtly deſired by their Majeſties, until at length that Supreme God who hath in his Hand the Hearts of Kings, and hath particularly reſerv'd to himſelf alone, the precious Gift of Peace, hath had the Goodneſs, through his infinite Mercy, to inſpire at the ſame time, both the Kings, and ſo to guide and direct them, that without any other Interpoſition or Motives, but the only ſenſe of Compaſſion they have had of the Sufferings of their good Subjects, and of a Fatherly deſire of their good and relief, and of the Peace of the whole Chriſtendom, they have found the means how to put an end to ſo great and long Calamities, to forget and extinguiſh the Cauſes and the Seeds of their Diviſions, and to ſettle to the Glory of God, and the Exaltation of our Holy Catholick Faith, a good ſincere, entire and laſting Peace and Fraternity between them and their Succeſſors, their Allies
+<pb n="2" facs="tcp:184644:2"/>and Dependants; By means whereof the Damages and Miſeries ſuffered, might quickly be repaired in all parts.</p>
+            <p>
+               <hi>Imprimis,</hi> It hath been concluded and agreed, concerning the Low-Coun<g ref="char:EOLhyphen"/>tries, that the Lord the moſt Chriſtian King ſhall remain ſeized, and ſhall effectually enjoy the Places, Towns, Countries and Caſtles, Dominions, Lands and Lordſhips following.</p>
+            <p>Firſt, Within the Country of <hi>Artois,</hi> the Town and City of <hi>Arras,</hi> and the Government and Bailiwick thereof; <hi>Heſdin</hi> and the Bailiwick thereof; <hi>Bapaume</hi> and the Bailiwick thereof; <hi>Bethune</hi> and the Government or Baili<g ref="char:EOLhyphen"/>wick thereof; <hi>Lillers</hi> and the Bailiwick thereof; <hi>Lentz</hi> and the Bailiwick thereof; the County of St. <hi>Pol; Terroane</hi> and the Bailiwick theteof; <hi>de Pas</hi> and the Bailiwick thereof; As alſo all the other Bailiwick and Chaſtel<g ref="char:EOLhyphen"/>lenies of the ſaid <hi>Artois,</hi> whatſoever they be, although not here particular<g ref="char:EOLhyphen"/>ly named and mentioned, Except only the Towns, Bailiwicks and Chaſtel<g ref="char:EOLhyphen"/>lenies, or Governments of <hi>Ayre</hi> and St. <hi>Omer,</hi> with their Appurtenances, Dependencies and Annexes, which ſhall remain all unto his Catholick Ma<g ref="char:EOLhyphen"/>jeſty: As alſo the Place of <hi>Renty,</hi> in caſe it be found to be of the ſaid De<g ref="char:EOLhyphen"/>pendencies of <hi>Ayre</hi> or St. <hi>Omer,</hi> and not otherwiſe.</p>
+            <p>Secondly, within the Province and County of <hi>Flanders,</hi> the ſaid Lord the moſt Chriſtian King ſhall remain ſeized, and ſhall effectually enjoy the Pla<g ref="char:EOLhyphen"/>ces of <hi>Graveling,</hi> the Forts <hi>Philip,</hi> of the Sluce, and <hi>Hannuin Bourbourg</hi> and the Chaſtelleny thereof; and St. <hi>Venant,</hi> whether it belongs to <hi>Flanders,</hi> or to <hi>Artois,</hi> and their Dominions, Appurtenances, Dependencies and Annexes.</p>
+            <p>Thirdly, Within the Province and County of <hi>Hainaeut,</hi> the ſaid Lord the moſt Chriſtian King ſhall remain ſeized; and ſhall effectually enjoy the Places of <hi>Landrecy</hi> and <hi>Queſnoy,</hi> and their Bailiwicks, Provoſtiſhips, or Chaſtellenies, Dominions, Appurtenances and Dependencies.</p>
+            <p>Fourthly, Within the Province and Dutchy of <hi>Luxemburg,</hi> the ſaid Lord the moſt Chriſtian King ſhall remain ſeized, and ſhall effectually enjoy the Places of <hi>Thionville, Montmedy</hi> and <hi>Damvilliers,</hi> their Appurtenances, De<g ref="char:EOLhyphen"/>pendencies, and Annexes, Provoſtſhips and Lordſhips: The Provoſtſhip of <hi>Ivoy, Chavancy, Chaſteau,</hi> and the Provoſtſhip thereof; and the Place and Poſt of <hi>Marville,</hi> ſituate upon the ſmall River called <hi>Vezin,</hi> and the Pro<g ref="char:EOLhyphen"/>voſtſhip of the ſaid <hi>Marville;</hi> which Place and Provaſtſhip did formerly belong, partly unto the Dukes of <hi>Luxemburg,</hi> and partly unto the Dukes of <hi>Bar.</hi>
+            </p>
+            <p>Fifthly, His moſt <hi>Chriſtian Majeſty</hi> having ſtrongly declared that he could never conſent to the reſtitution of the Places of <hi>la Buſſea,</hi> and <hi>Bergh</hi> St. <hi>Wy<g ref="char:EOLhyphen"/>nox,</hi> Chaſtellany of the ſaid <hi>Bergh,</hi> and the Royal Fort erected upon the Channel, hard by the Town of <hi>Bergh;</hi> and His <hi>Catholick Majeſty</hi> having condeſcended that they ſhould remain to the <hi>French,</hi> unleſs an Exchange of
+<pb n="3" facs="tcp:184644:2"/>the ſaid Places, with others of the like conſideration and mutual convenien<g ref="char:EOLhyphen"/>cies could be agreed upon, both the ſaid Lords Plenipotentiaries, have at laſt agreed that the ſaid two Placer of <hi>la Baſſee</hi> and <hi>Bergh-St. Wynox,</hi> the Chaſtellany and Royal Fort of the ſaid <hi>Bergh;</hi> ſhould be exchanged with the Places of <hi>Marienbourg</hi> and <hi>Philippeville,</hi> ſituate on the Rivers <hi>Sambre</hi> and <hi>Maez,</hi> their Appurtenances, Dependencies, Annexes and Dominions: And therefore his ſaid moſt <hi>Chriſtian Majeſty</hi> reſtoring, as it will be ſaid here<g ref="char:EOLhyphen"/>after, unto His <hi>Catholick Majeſty,</hi> the ſaid Places of <hi>la Baſſee, Bergh St. Wy<g ref="char:EOLhyphen"/>nox,</hi> and the Chaſtellany thereof, and the Royal Fort, with their Appurtenan<g ref="char:EOLhyphen"/>ces, Dependencies, Annexes and Dominions, His <hi>Catholick Majeſty</hi> ſhall at the ſame time put into the Hands of His moſt <hi>Chriſtian Majeſty,</hi> the ſaid Pla<g ref="char:EOLhyphen"/>ces of <hi>Marienburg</hi> and <hi>Philippeville,</hi> His ſaid moſt <hi>Chriſtian Majeſty</hi> to re<g ref="char:EOLhyphen"/>main ſeized of them, and effectually enjoy them, and their Appurtenances, Dependencies, <hi>&amp;c.</hi>
+            </p>
+            <p>Sixthly, His <hi>Catholick Majeſty,</hi> for certain conſiderations hereafter parti<g ref="char:EOLhyphen"/>cularly expreſſed in another Article of the preſent Treaty, doth promiſe and oblige himſelf to put into the Hands of His moſt <hi>Chriſtian Majeſty,</hi> the Town and Place of <hi>Avennes,</hi> ſituate between the <hi>Sambre</hi> and the <hi>Maez,</hi> with the Appurtenances, Dependencies, Annexes, and Dominions thereof. And becauſe it hath been reported, that within the ſaid Places of <hi>Avennes,</hi> and the Appurtenances, Dependencies, Annexes and Dominions thereof, the ordinary Juriſdiction, the Rents and other Profits do belong to the Prince of <hi>Chimay,</hi> it hath been declared and agreed between the ſaid Lords and Kings, that whatſoever is contained within the Walls and Fortifications of the ſaid Place, ſhall remain to His moſt <hi>Chriſtian Majeſty;</hi> ſo that the ſaid Prince ſhall have no kind of Right, Rent, or Juriſdiction within the ſaid Walls and Fortifications; it being only reſerved unto him to keep whatſo<g ref="char:EOLhyphen"/>ever in time paſt did belong to him out of the ſaid Place, in the Villages, Countries and Foreſts of the ſaid dependence.</p>
+            <p>The ſaid Places of <hi>Arras, Heſdin, Bapaunie, Bethune,</hi> and the Towns of <hi>Lillers, Lens,</hi> County of St. <hi>Pol, Teroane, Pas,</hi> and their Bailiwicks; as alſo all the other Bailiwicks and Chaſtellenies of <hi>Artois,</hi> (except only as aforeſaid the Towns and Bailiwicks of <hi>Ayre</hi> and St. <hi>Omer,</hi> their Appurte<g ref="char:EOLhyphen"/>nances, Dependencies, Annexes and Dominions) as alſo <hi>Renty,</hi> in caſe it be not found to be any of the Dependencies of <hi>Ayre</hi> or of St. <hi>Omer;</hi> toge<g ref="char:EOLhyphen"/>ther with the Places of <hi>Graveling,</hi> and the Forts <hi>Philip,</hi> the <hi>Sluce</hi> and <hi>Han<g ref="char:EOLhyphen"/>nuin Bourbourgh,</hi> and St. <hi>Venant</hi> in <hi>Flanders;</hi> the Places of <hi>Landrecy</hi> and <hi>Queſnoy,</hi> in the <hi>Hainaeut;</hi> as alſo thoſe of <hi>Avennes, Marienbourgh</hi> and <hi>Phi<g ref="char:EOLhyphen"/>lippeville,</hi> which are to be put into the Hands of the moſt <hi>Chriſtian King,</hi> as aforeſaid: And likewiſe the Places of <hi>Thionville, Montmedi,</hi> and <hi>Damvil<g ref="char:EOLhyphen"/>liers,</hi> the Town and Provoſtſhip of <hi>Ivoy, Chavency, Chaſteau</hi> and the Pro<g ref="char:EOLhyphen"/>voſtſhip thereof, and <hi>Marville,</hi> in <hi>Luxembourgh,</hi> their Bailiwicks, Chaſtel<g ref="char:EOLhyphen"/>lanies, <hi>&amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:184644:3"/>
+            <p>And as concerning the Countries and Places taken by the Arms of <hi>France,</hi> during this War towards <hi>Spain:</hi> As it had been formerly agreed by the Ne<g ref="char:EOLhyphen"/>gociation begun at <hi>Madrid,</hi> in the Year 1656; upon which this preſent Treaty is grounded, that the Pyrenean Mountains, which anciently had di<g ref="char:EOLhyphen"/>vided the <hi>Gauls</hi> from <hi>Spain,</hi> ſhould alſo make henceforth the Diviſion of both the ſaid Kingdoms, It hath been concluded and agreed, that the Lord, the moſt <hi>Chriſtian King,</hi> ſhall remain in poſſeſſion, and ſhall effectually enjoy the whole Country and Viquery of <hi>Rouſſillion,</hi> and the Country and Vique<g ref="char:EOLhyphen"/>ry of <hi>Conflans,</hi> the Countries, Towns, Places, Caſtles, Borroughs, Villages and Places, which make up the ſaid Counties and Viqueries of <hi>Rouſſillon</hi> and <hi>Conflans:</hi> And to the Lord, the <hi>Catholick King,</hi> ſhall remain the County and Viquery of <hi>Cerdana,</hi> and the whole Principality of <hi>Catalonia,</hi> with the Vi<g ref="char:EOLhyphen"/>queries, Places, Towns, Caſtles, Boroughs, Hamblets, Places, and Coun<g ref="char:EOLhyphen"/>ties, that make up the ſaid County of <hi>Cerdana,</hi> and the Principality of <hi>Ca<g ref="char:EOLhyphen"/>talonia.</hi> Provided, that if there be found any place of the County and Vi<g ref="char:EOLhyphen"/>query of <hi>Conflans</hi> only, and not of <hi>Rouſſillon,</hi> that be in the ſaid Pyrenean Mountains toward <hi>Spain,</hi> it ſhall likewiſe remain to His <hi>Catholick Majeſty:</hi> As likewiſe, if any place be found of the ſaid County and Viquery of <hi>Cer<g ref="char:EOLhyphen"/>dana</hi> only, and not of <hi>Catalonia,</hi> that be in the ſaid <hi>Pyrenean</hi> Mountains to<g ref="char:EOLhyphen"/>wards <hi>France,</hi> it ſhall remain to His moſt <hi>Chriſtian Majeſty.</hi>
+            </p>
+            <p>The whole County and Viquery of <hi>Rouſſillon,</hi> County and Viquery of <hi>Conflans,</hi> except the places that ſhall be found to be ſituate in the <hi>Pyrenean</hi> Mountains towards <hi>Spain,</hi> in the manner aforeſaid, according to the Decla<g ref="char:EOLhyphen"/>ration and Agreement of the Commiſſioners that are to be appointed for that purpoſe; as alſo that part of the County of <hi>Cerdana,</hi> that ſhall be found ſituate in the <hi>Pyrenean</hi> Mountains towards <hi>France,</hi> according unto the ſame Declaration of the Commiſſioners, the Countries, Towns, places, Caſtles, that make up the Viqueries of <hi>Rouſſillon</hi> and <hi>Conflans,</hi> and part of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Cerdana,</hi> in the manner aforeſaid, ſhall remain for ever to the Crown of <hi>France.</hi>
+            </p>
+            <p>The ſaid Lord the Catholick King, ſhall re-enter into the poſſeſſion and enjoyment of the County of <hi>Corrolois,</hi> to enjoy it by him and his Succeſſors, fully and peaceably, and hold the ſame under the Soveraignty of the moſt Chriſtian King, as he held it afore the preſent War.</p>
+            <p>The ſaid Lord the moſt Chriſtian King, ſhall reſtore to the ſaid Lord the Catholick Ling, in the Low-Countries, the Towns and places of <hi>Ypres, Ou<g ref="char:EOLhyphen"/>denard, Dixude, Furnes,</hi> with the fortified Poſts of <hi>La Fintelle,</hi> and <hi>La Que<g ref="char:EOLhyphen"/>noque, Marville</hi> upon the River of <hi>Lys, Menin</hi> and <hi>Comines,</hi> their Appurte<g ref="char:EOLhyphen"/>nances, Dependences and Annexes. As alſo his moſt Chriſtian Majeſty ſhall put again into the hands of his Catholick Majeſty the places of <hi>Burgh, St. Wynox,</hi> and its Royal Fort, and the place of <hi>la Baſſee,</hi> by way of ex<g ref="char:EOLhyphen"/>change for the places of <hi>Marienburgh</hi> and <hi>Philippeville.</hi>
+            </p>
+            <pb n="5" facs="tcp:184644:3"/>
+            <p>Secondly, The ſaid Lord the moſt Chriſtian King, ſhall reſtore in <hi>Italy,</hi> unto the ſaid Lord the Catholick King, the places of <hi>Valence</hi> upon the <hi>Po<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and of <hi>Mortara,</hi> their Appurtenances, Dependences and Annexes.</p>
+            <p>Thirdly, in the County of <hi>Burgundy,</hi> the ſaid Lord the moſt Chriſtian King, ſhall reſtore unto the ſaid Lord the Catholick King, the places and Forts of St. <hi>Amour, Bleverans</hi> and <hi>Joux,</hi> and their Appurtenances, Depen<g ref="char:EOLhyphen"/>dences and Annexes, and all the other Poſts, fortified or not fortified, which the Armies of his moſt Chriſtian Majeſty have taken in the ſaid County of <hi>Burgundy,</hi> without keeping or reſerving any thing.</p>
+            <p>Fourthly, towards <hi>Spain,</hi> the ſaid Lord the moſt <hi>Chriſtian King,</hi> ſhall re<g ref="char:EOLhyphen"/>ſtore to the <hi>Catholick King,</hi> the places and Ports of <hi>Roſes,</hi> the Fort of the <hi>Trinity, Cap-de Quers, La Scau d'Urgel, Toxen,</hi> the <hi>Caſtle</hi> of <hi>Baſtide,</hi> the Town and place of <hi>Baga,</hi> the Town and place of <hi>Ripol,</hi> and the county of <hi>Cerdana,</hi> wherein are <hi>Belver, Puicerda, Carol,</hi> and the <hi>Caſtle</hi> of <hi>Cerdana,</hi> in ſuch a condition as they be now, and all the <hi>Caſtles, Ports,</hi> fortified or not fortified, Town, Boroughs, Villages and other places, Appurtenances, De<g ref="char:EOLhyphen"/>pendences and Annexes, belonging to the ſaid places of <hi>Roſes, Cap de Quers, Scau d' Urgel,</hi> and county of <hi>Cerdana,</hi> although not named nor ſpecified here: Provided, that if any of the ſaid Poſts, Towns, places and caſtles a<g ref="char:EOLhyphen"/>forenamed, ſhould be found to be in the Viguery of <hi>Cerdana,</hi> in the <hi>Pyraene<g ref="char:EOLhyphen"/>an</hi> Mountains towards <hi>France,</hi> they ſhall remain to his moſt <hi>Chriſtian Ma<g ref="char:EOLhyphen"/>jeſty.</hi>
+            </p>
+            <p>The ſaid Lord the <hi>Catholick King,</hi> ſhall reſtore unto the Lord the moſt <hi>Chriſtian King,</hi> the Towns and places of <hi>Rocroy. Le Catelet,</hi> and <hi>Linchamp.</hi>
+            </p>
+            <p>As the three places of <hi>Avennes, Philippevile</hi> and <hi>Morienbourg,</hi> are yield<g ref="char:EOLhyphen"/>ed by the preſent Treaty, as aforeſaid, unto the Lord the moſt <hi>Chriſtian King,</hi> to be united and incorporated to the <hi>Crown</hi> of <hi>France,</hi> if there be found any places, which not being of the ſaid Appurtenances, Dependences, or Annexes, ought to remain in the ſaid propriety and ſoveraignty of the ſaid Lord the <hi>Catholick King,</hi> neither his ſaid <hi>Catholick Majeſty,</hi> nor the Kings his Succeſſors, ſhall have power at any time to fortify the ſaid Borroughs, Villages, Poſts or Countries, nor to make any new Fortifications between the ſaid places of <hi>Avennes, Philippeville</hi> and <hi>Morienbourg,</hi> by means of which Fortifications, the ſaid places or any of them, might be cut off from <hi>France,</hi> or the communication between them diſturbed: As likewiſe it hath been concluded and agreed, that in caſe the place of <hi>Rente</hi> in <hi>Artois</hi> remain to his <hi>Catholick Majeſty,</hi> as it ought to remain to him, in caſe it be found to be of the Dependences of <hi>Ayre</hi> or St. <hi>Omer,</hi> neither his ſaid <hi>Catholick Majeſty,</hi> nor the Kings his Succeſſors, ſhall have power, at any time to fortify the ſaid <hi>Renty.</hi>
+            </p>
+            <p>By vertue of the preſent Treaty, all the <hi>Catalonians</hi> and other Inhabitants of the ſaid Province, as well Prelates, Eccleſiaſtical Perſons, Religious Per<g ref="char:EOLhyphen"/>ſons,
+<pb n="6" facs="tcp:184644:4"/>Lords, Gentlemen, and Burgeſſes, as other Inhabitants, both of the Towns and of the Country, none excepted, ſhall have power to re-enter, and ſhall effectually re-enter, and be left and eſtabliſhed in the poſſeſſion and peaceably enjoyment of all their Goods, Honours, <hi>&amp;c.</hi> And for that end, his <hi>Catholick Majeſty</hi> ſhall grant and cauſe to be publiſhed, in good form, his Declarations of Amniſty and Pardon, in the behalf of the ſaid <hi>Ca<g ref="char:EOLhyphen"/>talonians,</hi> which publication ſhall be made upon the ſame day, as the pub<g ref="char:EOLhyphen"/>lication of the Peace.</p>
+            <p>Although his moſt <hi>Chriſtian Majeſty</hi> hath never been willing to engage himſelf, notwithſtanding the preſſing inſtances made to him heretofore, back<g ref="char:EOLhyphen"/>ed even with very conſiderable offers, not to make the Peace without the excluſion of the Kingdom of <hi>Portugal,</hi> becauſe his Majeſty hath foreſeen and feared leaſt ſuch an Engagement might be an unſurmountable obſtructi<g ref="char:EOLhyphen"/>on to the concluſion of the Peace, doth now reſtore by the preſent Treaty unto his <hi>Catholick Majeſty,</hi> all the reſt of the Conqueſts generally made by his Arms during this War, and wholly to reſtore the Prince of <hi>Conde;</hi> Pro<g ref="char:EOLhyphen"/>vided and upon that condition that the affairs of the Kingdom of <hi>Portugal</hi> ſhould be left as they are now; which his <hi>Catholick Majeſty</hi> having refuſed to accept, but only offering that in the conſideration of the Offices of the ſaid Lord the moſt <hi>Chriſtian King,</hi> he would give his conſent for ſetting all things in the ſaid Kingdom of <hi>Portugal,</hi> in the ſame ſtate they were afore the change arrived therein the Month of <hi>December,</hi> in the year 1640. par<g ref="char:EOLhyphen"/>doning and giving a general Amniſty for all what is paſt: And his ſaid moſt <hi>Chriſtian Majeſty</hi> willing to prefer, as it ought to be, and is moſt juſt, the general quietneſs of Chriſtendom, to the particular intereſt of the King<g ref="char:EOLhyphen"/>dom of <hi>Portugal,</hi> it hath been at length concluded and agreed between the ſaid Lords and Kings, that it ſhall be granted unto his ſaid moſt <hi>Chriſtian Majeſty,</hi> a ſpace of three Months time, to begin from the day of the ex<g ref="char:EOLhyphen"/>changing of the Ratifications of the preſent Treaty, during which his ſaid Majeſty may ſend into the ſaid Kingdom of <hi>Portugal,</hi> to endeavour ſo to diſpoſe things there, and to reduce and compoſe that affair, that his <hi>Catho<g ref="char:EOLhyphen"/>lick Majeſty</hi> may remain fully ſatisfied. Which three Months being expire<g ref="char:EOLhyphen"/>ed, if his ſaid moſt <hi>Chriſtian Majeſty</hi>'s Cares and Offices have not had the deſired effect, his ſaid Majeſty will not further meddle with that affair.</p>
+            <p>His <hi>Catholick Majeſty</hi> doth renounce by this Treaty, both in his Name, and of his Heirs, Succeſſors and Aſſigns, unto all the Rights and Pretenti<g ref="char:EOLhyphen"/>ons, without keeping or reſerving any thing, which his Majeſty may, or might hereafter have upon the Upper and Lower <hi>Alſatia,</hi> the <hi>Zuntgaw,</hi> the County of <hi>Ferreſe, Briſac,</hi> and Dependences thereof, and upon all the coun<g ref="char:EOLhyphen"/>tries, places, and rights left and yielded to his moſt <hi>Chriſtian Majeſty</hi> by the Treaty made at <hi>Munſter,</hi> the 14 of <hi>October,</hi> 1648. to be united and incor<g ref="char:EOLhyphen"/>porated to the Crown of <hi>France:</hi> In conſideration of which, his moſt <hi>Chri<g ref="char:EOLhyphen"/>ſtean
+<pb n="7" facs="tcp:184644:4"/>Majeſty</hi> do offer to ſatisfy to the payment of Three Millions of Livers, to the Archdukes of <hi>Inſpruck.</hi>
+            </p>
+            <p>The Duke <hi>Charles</hi> of <hi>Lorraine</hi> having ſhewed much ſorrow for his Con<g ref="char:EOLhyphen"/>duct towards the Lord the moſt <hi>Chriſtian</hi> King, and to have a firm intenſi<g ref="char:EOLhyphen"/>on to give him more ſatisfaction for the future, both of himſelf and of his actions, then the time paſt, and the occaſions have formerly enabled him to do, his moſt <hi>Chriſtian Majeſty,</hi> in conſideration of the mighty offices of his <hi>Catholick Majeſty,</hi> doth from this time receive the ſaid Duke into his good Grace, and in contemplation of the Peace, without looking to the Rights his Majeſty may have acquited, by ſeveral Treaties made by the late King his Father, with the ſaid Duke, after the demoliſhing, which ſhall be firſt made, of all the Fortifications of both the Towns of <hi>Nancy,</hi> which he ſhall not have power to raiſe again, ſhall put again the ſaid Duke <hi>Charles</hi> of <hi>Lorraine</hi> into the poſſeſſion of the Dukedom of <hi>Lorraine,</hi> and even of the Towns, places, and Countries, by him formerly poſſeſſed, depending of the three Biſhopricks of <hi>Mentz, Thoul</hi> and <hi>Verdun,</hi> except firſt, <hi>Moyenvie,</hi> which, though within the Marches of <hi>Lorraine,</hi> yet belonged to the Em<g ref="char:EOLhyphen"/>pire, and hath been yielded to his moſt <hi>Chriſtian Majeſty,</hi> by the Treaty made at <hi>Munſter,</hi> the 21 of <hi>October,</hi> 1648.</p>
+            <p>Secondly, Except the whole Dukedom of <hi>Bar,</hi> Countries, Towns, and places, making up the ſame, as well that part thereof as doth hold from the Crown of <hi>France,</hi> as that which might be pretended not to hold of it.</p>
+            <p>Thirdly, except the County of <hi>Clermont,</hi> and the Dominion thereof, and the places, Provoſtſhips, and Lands of <hi>Stenay Dun,</hi> and <hi>Jametz,</hi> with the whole revenew thereof, and the Territories belonging to them. Which <hi>Moyenvie</hi> Dukedom of <hi>Bar,</hi> therein comprehended the part of the place and Proveſtſhip of <hi>Merville;</hi> which part, as it hath been ſaid before, did belong to the Dukes of <hi>Bar,</hi> places, County, Provoſtſhip, Lands, and Dominions of <hi>Clermont, Stenay, Dnn,</hi> and <hi>Jametz,</hi> with their Appurtenances, Dependen<g ref="char:EOLhyphen"/>ces, and Annexes, ſhall remain for ever united and incorporated to the Crown of <hi>France.</hi>
+            </p>
+            <p>Neither the ſaid Duke <hi>Charles</hi> of <hi>Lorraine,</hi> nor any other Prince of his Houſe, or of his Adherents and dependents ſhall not have power to remain in Arms, but both the ſaid Duke, and the other aforeſaid, ſhall be bound to disband their forces at the Publication of the ſaid Peace.</p>
+            <p>Whereas the ſaid Cardinal <hi>Mazarin,</hi> his moſt Chriſtian Majeſty's Pleni<g ref="char:EOLhyphen"/>potentiary, hath repreſented, that for the better obtaining of a good Peace, it is neceſſary that the Duke of <hi>Savoy,</hi> who hath intermedled in this War, joyning his Arms to thoſe of the Crown of <hi>France,</hi> whoſe Ally he is, ſhould be comprehended in the preſent Treaty: His moſt Chriſtian Majeſty love<g ref="char:EOLhyphen"/>ing the welfare and preſervation of the ſaid Duke, as much as his own, be<g ref="char:EOLhyphen"/>cauſe of the propinquity of blood and alliance whereby they are related<g ref="char:punc">▪</g>
+               <pb n="8" facs="tcp:184644:5"/>and his Catholick Majeſty finding it reaſonable that the ſaid Duke be comprehended in that Peace: upon the inſtances and by the interpoſition of his moſt Chriſtian Majeſty; It hath been concluded and agreed, that for the future there ſhall be a ceſſation of all manner of acts of hoſtilty, as well by Sea and other waters, as by land, between his <hi>Catholick Majeſty</hi> and the ſaid Duke of <hi>Savoy</hi>
+            </p>
+            <p>In conſequence of the ſaid Peace, and in conſideration of the Offices of his moſt <hi>Chriſtian Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſty,</hi> the ſaid Lord the <hi>Catholick King</hi> ſhall reſtore unto the ſaid Duke of <hi>Savoy,</hi> the Town, place and Caſtle of <hi>Verceil:</hi> And ſhall therein demoliſh nothing, nor damnify the Fortifications that have been made there: And as to the place of <hi>Cencin</hi> in the <hi>Langs,</hi> it ſhall likewiſe be reſtored to the ſaid Duke of <hi>Savoy,</hi> in the ſame ſtate it is now in, with the Dependences and Annexes.</p>
+            <p>As for the Dower of the late <hi>Sereniſſime Infanta Catharina,</hi> about which there hath been ſome difference betwixt the Houſes of <hi>Savoy,</hi> the Artears that may be due to his Houſe, ſince the ſaid Dower was appointed, until the 17th of <hi>December</hi> in the year 1620. At which time the late Duke <hi>Charles Emanuel</hi> of <hi>Savoy</hi> gave in Appanage the ſaid Dower, to the late Prince <hi>Philbert</hi> his Son, as it ſhall be verified by the date, out of the Books of the Royal Chamber of <hi>Naples.</hi>
+            </p>
+            <p>And becauſe the Diviſions, or contrary Pretenſions of the Houſes of <hi>Savoy</hi> and <hi>Mantua,</hi> have ſe<g ref="char:EOLhyphen"/>veral times cauſed ſome Troubles in <hi>Italy,</hi> becauſe of the aſſiſtances the ſaid Lords and Kings have at divers times given, each of them to his Allies; that for the future, no ſubject or pretence may be left, that might afreſh after the good Intelligence and Amity of their Majeſties; It hath been con<g ref="char:EOLhyphen"/>cluded and agreed, for the good of the Peace, that the Treaties made at <hi>Queraſque,</hi> in the Year 163<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. about the differences of the ſaid Houſes of <hi>Savoy</hi> and <hi>Mantua,</hi> ſhall be executed according to their Form and Tenor.</p>
+            <p>And becauſe the ſaid Lords and Kings have conſidered, that the differences of the other Princes their Friends and Adherents, have often drawn them, againſt their Wills, and the Kings their Pre<g ref="char:EOLhyphen"/>deceſſors, to the taking up of Arms; The two Lords and Kings have agreed, that they will jointly interpoſe, their Offices and Supplications towards our Holy Father the Pope, until they may have obtained of his Holineſs that he might be pleaſed to cauſe the diſſerence to be ended without delay, either by an Agreement or by Juſtice, which the Duke of <hi>Modena</hi> hath had ſo long ſince, with the Apoſtolical Chamber, touching the Propriety and Poſſeſſion of the Valleys of <hi>Comachio:</hi> Hoping of the Soveraign Equity of his Holineſs, that he will not refuſe the juſt ſatisfaction that ſhall be due to a Prince, whoſe Anceſtors have ſo well deſerved of the holy See. Their Majeſties ſeeing, with a great Grif, the preſent Diſpoſition of <hi>Germany,</hi> and of other Northern Countries, where the VVar is kindled, and may yet inflame the Empire, have concluded to ſend their Ambaſſadors, jointly to act for the managing, in their Name, a good and ſpeedy Accommodation, both of all Differences that may trouble the Peace of the Empire, and of ſuch, as ſome Years ſince, have cauſed the VVar in the other Parts of the North.</p>
+            <p>The Prince of <hi>Monaco</hi> ſhall be reſtored, without delay, into the peaceable poſſeſſion of all the Goods, Rights and Revenews belonging unto him, and which he enjoyed afore the VVar, in the Kingdom of <hi>Naples,</hi> Dutchy of <hi>Milan,</hi> and other Places of the Obedience of His Catholick Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <p>All Priſoners of VVar, of what Nation or Condition ſoever, being detained on either ſide, ſhall be ſet at liberty, in paying their Expences, and what they may otherwiſe owe; but without paying any Ranſom, unleſs they have agreed before otherwiſe; in which caſe the Treaties made by them afore this Day, ſhall be executed according to their Form and Senſe.</p>
+            <p>Provided all the Premiſſes be duly obſerved, it hath been concluded and agreed, that the Treaty made at <hi>Vervins</hi> in the Year 568. is again confirmed and approved by the ſaid Plenipo<g ref="char:EOLhyphen"/>tentiaries, in all its Points, as if the ſame was here inſerted word for word, and without innovat<g ref="char:EOLhyphen"/>ing thing therein, nor in any of the other former Treaties, which ſhall remain in their full force, in whatſoever it is not derogated unto by this preſent Treaty.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Drury,</hi> near the <hi>Royal-Exchange.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
